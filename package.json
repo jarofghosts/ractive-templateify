@@ -27,7 +27,6 @@
     "concat-stream": "^1.4.7",
     "duplexify": "^3.2.0",
     "ractive": "^0.8.0",
-    "rcu": "^0.8.2",
     "through2": "^0.6.3",
     "xtend": "^4.0.0"
   },
