@@ -23,6 +23,12 @@ Alternatively, specify your own extension via the `extension` option:
 * `extension` - A string specifying what file extension to parse. Defaults to
   `"ract"`
 
+#### notes
+
+Previous versions supported a `justTemplate` option, but newer Ractive parsing
+methods only output the template so it has been removed until otherwise
+necessary/supported.
+
 ## why
 
 The focus of `ractive-transform` is to keep releases up-to-date with Ractive,
